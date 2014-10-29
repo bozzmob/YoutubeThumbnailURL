@@ -2,7 +2,7 @@ This script fetches the thumbnail of any YouTube user. This was done as an inter
 
 To Use this script, type-
 
-./getThumbnailURL.sh <YouTubeUserName>
+./getThumbnailURL.sh #YouTubeUserName#
 
 Example-
 ./getThumbnailURL.sh ESPN
